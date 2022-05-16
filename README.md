@@ -226,7 +226,7 @@ we can see that the min. sleep time here is 1.02 hrs and the max sleep hours is 
 ## Share
  the next step in data analysis is sharing the findings.I used github as a platform to share my analysis. One can use other platforms such as kaggle, or websites etc to share.
  
- Sleep hours visualization-
+ [Sleep hours visualization](https://github.com/dhanyamk2948/Bellabeat/blob/main/viz.png)
  
  
 key findings are:---
