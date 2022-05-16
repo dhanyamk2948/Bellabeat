@@ -2,7 +2,7 @@
 This repository contains the capstone project for Google Data Analytics Specialization 
 
 Hi!!
-So in this particular data analysis expedition we are supposed to imagine Bellabeat to be a high-tech manufacturer of health-focused products for women. Bellabeat is a successful small company, but they have the potential to become a larger player in the global smart device market.
+So in this particular data analysis expedition we are supposed to imagine Bellabeat to be a high-tech manufacturer of health-focused products for women. Bellabeat is a successful small company, but they have the potential to become a larger player in the global smart device market. So as data analyst we need to analyse some helth data collected by bellabeat's products and come up with some ideas to help them grow.
 
 ## Stakeholders
 
